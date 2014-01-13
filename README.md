@@ -1,4 +1,4 @@
-web_development_package
+Web Development Package
 =======================
 
 A complete guide to the elements needed to master web development
